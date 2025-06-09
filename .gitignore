@@ -1,0 +1,49 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and package files
+env/
+venv/
+.venv/
+.env
+.envrc
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Model and data artifacts
+*.pt
+*.pth
+*.h5
+*.onnx
+*.joblib
+*.sav
+*.pkl
+
+# FAISS and embedding indexes
+docs/*.faiss
+docs/*.pkl
+
+# Backup files
+*.bak
+*~
+
+# Compiled notebooks or scripts
+*.nbconvert.ipynb
