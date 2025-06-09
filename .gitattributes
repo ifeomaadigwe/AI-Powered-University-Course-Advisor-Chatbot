@@ -1,0 +1,11 @@
+# Ensure consistent line endings
+* text=auto
+
+# Handle common binary files
+*.png binary
+*.jpg binary
+*.pkl binary
+*.faiss binary
+
+# Jupyter notebooks (if any)
+*.ipynb text
