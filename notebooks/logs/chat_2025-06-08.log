@@ -1,0 +1,57 @@
+2025-06-08 22:52:08,439 - INFO - Use pytorch device_name: cpu
+2025-06-08 22:52:08,439 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-08 22:56:47,558 - INFO - User Query: Yes, English is taught at Deutsche Hochschule für Studien
+2025-06-08 22:56:47,563 - INFO - Generated Answer: You are an academic advisor for Deutsche Hochschule für Studien. Use the context below to answer the user's question.
+
+Context:
+Then you' ve come to the right place! Here are the
+steps you need to take in order to study at LMU.
+Overview
+Information on prerequisites,
+applications, and registration
+Applications
+All international students are
+required to apply for a place.
+Registration
+The final step before studyingDegree programs
+Bachelor's or master's degree,
+doctoral studies and more
+Prerequisites 
+General and specific
+prerequisites for admission
+Learning German 
+German proficiency and
+language courses
+International Stud
+ settled and focusing on
+studying and enjoying Munich!
+Registering your address
+Residence permit
+Opening a bank account
+Setting up your WiFi connection
+Finding your way around campusWorking in Germany
+Student life
+Sport, Art, and entertainment
+Want to try skiing? Or is music more your thing? You can try it all while studying at LMU Munich.
+Student life here is lively and varied '  and you' ll be making new friends in no time.
+Arts and entertainment 
+Eating out and eating in
+Academic culture
+Spor
+
+Question:
+Yes, English is taught at Deutsche Hochschule für Studien
+
+Answer:
+Congratulations on choosing to study at Deutsche Hochschule für Studien! Here are some important steps for you to take in order to study at LMU Munich.
+
+Step 1: Learn about the university
+LMU Munich is a prestigious university with a long history of academic excellence. It is located in the heart of Munich, one of the biggest cities in Germany. The university offers a wide range of courses in various fields such as science, humanities, and social sciences.
+
+Step 2: Learn about the prerequisites
+Before applying for admission, it is important to check the prerequisites for the courses you are interested in. These may include educational background, language proficiency, and specific skills. Make sure you meet these requirements before applying.
+
+Step 3: Learn about the application process
+All international students are required to apply for a place at LMU Munich. You can find information about the application process on the university's website. Make sure to submit all the required documents
+2025-06-08 23:59:31,631 - INFO - Use pytorch device_name: cpu
+2025-06-08 23:59:31,631 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
